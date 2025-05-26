@@ -2,6 +2,15 @@
 
 An application for managing animals and creating pedigree tree
 
+## Features
+
+- Google Authentication
+- Animal data management
+- Animal Achievements
+- Pedigree Tree
+- Circular dependency detection
+- Same gender parents detection
+
 ## Installation
 
 - Clone https://github.com/Rizki36/pedigree-fe
